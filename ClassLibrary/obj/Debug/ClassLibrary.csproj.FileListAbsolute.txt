@@ -1,0 +1,6 @@
+D:\Repository\CalculatorWPF\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Repository\CalculatorWPF\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Repository\CalculatorWPF\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+D:\Repository\CalculatorWPF\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Repository\CalculatorWPF\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Repository\CalculatorWPF\ClassLibrary\obj\Debug\ClassLibrary.pdb

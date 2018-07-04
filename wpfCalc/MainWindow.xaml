@@ -5,6 +5,33 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:wpfCalc"
         mc:Ignorable="d"
-        Title="Calculator" Height="450" Width="300" Background="White" Foreground="White" OpacityMask="{DynamicResource {x:Static SystemColors.ActiveBorderBrushKey}}" FontFamily="Segoe UI Symbol" Visibility="Visible" WindowStyle="ThreeDBorderWindow" WindowStartupLocation="CenterScreen">
-    <Grid Background="#FFB6B6B6" OpacityMask="{DynamicResource {x:Static SystemColors.DesktopBrushKey}}" Height="600"/>
+        Title="Calculator" Height="342.333" Width="276.334" Background="White" Foreground="White" OpacityMask="{DynamicResource {x:Static SystemColors.ActiveBorderBrushKey}}" FontFamily="Segoe UI Symbol" Visibility="Visible" WindowStartupLocation="CenterScreen" Opacity="0.84" SizeToContent="Height">
+    <Grid Background="{DynamicResource {x:Static SystemColors.InactiveCaptionBrushKey}}" OpacityMask="{DynamicResource {x:Static SystemColors.DesktopBrushKey}}" Margin="0,0,0,-1">
+        <Grid HorizontalAlignment="Left" Height="100" Margin="4,93,0,0" VerticalAlignment="Top" Width="157" Background="White">
+            <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="54" Height="34" Margin="49,0,0,0" Content="2" Background="White"/>
+            <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="54" Height="34" Margin="103,0,0,0" Content="3" Background="White"/>
+            <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="54" Height="34" Margin="103,34,0,0" Content="6" Background="White"/>
+            <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="54" Height="34" Margin="103,68,0,-2" Content="9" Background="White"/>
+        </Grid>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="67" Width="268" Foreground="Black" FontSize="20" Cursor="Arrow" Background="White"/>
+        <Button HorizontalAlignment="Left" Margin="0,67,0,0" VerticalAlignment="Top" Width="54" Height="24" Background="{DynamicResource {x:Static SystemColors.HotTrackBrushKey}}"/>
+        <Button HorizontalAlignment="Left" Margin="54,67,0,0" VerticalAlignment="Top" Width="54" Height="24"/>
+        <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="21" Height="33" Margin="163,162,0,0" Content="⤬" Background="{DynamicResource {x:Static SystemColors.HotTrackBrushKey}}"/>
+        <Button HorizontalAlignment="Left" Margin="108,67,0,0" VerticalAlignment="Top" Width="54" Height="24" Background="{DynamicResource {x:Static SystemColors.HotTrackBrushKey}}"/>
+        <Button HorizontalAlignment="Left" Margin="162,67,0,0" VerticalAlignment="Top" Width="54" Height="24"/>
+        <Button HorizontalAlignment="Left" Margin="216,67,0,0" VerticalAlignment="Top" Width="52" Height="24" Background="{DynamicResource {x:Static SystemColors.HotTrackBrushKey}}"/>
+        <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="54" Height="34" Margin="-1,93,0,0" Content="1" Background="White"/>
+        <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="54" Height="34" Margin="-1,127,0,0" Content="4" Background="White"/>
+        <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="54" Height="34" Margin="-1,161,0,0" Content="7" Background="White"/>
+        <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="54" Height="34" Margin="53,161,0,0" Content="8" Background="White"/>
+        <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="54" Height="34" Margin="53,127,0,0" Content="5" Background="White"/>
+        <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="54" Height="35" Margin="-1,195,0,0" Content="0" Background="White"/>
+        <Button Content="=" HorizontalAlignment="Left" VerticalAlignment="Top" Width="84" Height="33" Margin="184,162,0,0" FontSize="16" Background="White"/>
+        <Button Content="+" HorizontalAlignment="Left" Margin="215,93,0,0" VerticalAlignment="Top" Width="53" Height="34"/>
+        <Button Content="‒" HorizontalAlignment="Left" Margin="163,93,0,0" VerticalAlignment="Top" Width="52" Height="34" RenderTransformOrigin="-0.138,-2.315" Background="White"/>
+        <Button Content="+/‒" HorizontalAlignment="Left" Margin="107,195,0,0" VerticalAlignment="Top" Width="54" Height="35" Background="White"/>
+        <Button Content="÷" HorizontalAlignment="Left" Margin="163,127,0,0" VerticalAlignment="Top" Width="52" Height="35"/>
+        <Button Content="×" HorizontalAlignment="Left" Margin="215,127,0,0" VerticalAlignment="Top" Width="53" Height="35" Background="White"/>
+        <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="54" Height="35" Margin="53,195,0,0" Content="," FontSize="20" Background="White"/>
+    </Grid>
 </Window>

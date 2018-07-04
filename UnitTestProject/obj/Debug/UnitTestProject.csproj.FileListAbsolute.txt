@@ -1,0 +1,12 @@
+D:\Repository\CalculatorWPF\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\Repository\CalculatorWPF\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\Repository\CalculatorWPF\UnitTestProject\bin\Debug\ClassLibrary.dll
+D:\Repository\CalculatorWPF\UnitTestProject\bin\Debug\nunit.framework.dll
+D:\Repository\CalculatorWPF\UnitTestProject\bin\Debug\ClassLibrary.pdb
+D:\Repository\CalculatorWPF\UnitTestProject\bin\Debug\nunit.framework.pdb
+D:\Repository\CalculatorWPF\UnitTestProject\bin\Debug\nunit.framework.xml
+D:\Repository\CalculatorWPF\UnitTestProject\obj\Debug\UnitTestProject.csprojAssemblyReference.cache
+D:\Repository\CalculatorWPF\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+D:\Repository\CalculatorWPF\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+D:\Repository\CalculatorWPF\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\Repository\CalculatorWPF\UnitTestProject\obj\Debug\UnitTestProject.pdb

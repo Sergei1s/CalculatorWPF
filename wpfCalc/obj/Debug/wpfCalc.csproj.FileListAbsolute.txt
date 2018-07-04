@@ -1,0 +1,15 @@
+D:\Repository\CalculatorWPF\wpfCalc\bin\Debug\wpfCalc.exe.config
+D:\Repository\CalculatorWPF\wpfCalc\bin\Debug\wpfCalc.exe
+D:\Repository\CalculatorWPF\wpfCalc\bin\Debug\wpfCalc.pdb
+D:\Repository\CalculatorWPF\wpfCalc\obj\Debug\wpfCalc.csprojAssemblyReference.cache
+D:\Repository\CalculatorWPF\wpfCalc\obj\Debug\MainWindow.g.cs
+D:\Repository\CalculatorWPF\wpfCalc\obj\Debug\App.g.cs
+D:\Repository\CalculatorWPF\wpfCalc\obj\Debug\wpfCalc_MarkupCompile.cache
+D:\Repository\CalculatorWPF\wpfCalc\obj\Debug\wpfCalc_MarkupCompile.lref
+D:\Repository\CalculatorWPF\wpfCalc\obj\Debug\MainWindow.baml
+D:\Repository\CalculatorWPF\wpfCalc\obj\Debug\wpfCalc.g.resources
+D:\Repository\CalculatorWPF\wpfCalc\obj\Debug\wpfCalc.Properties.Resources.resources
+D:\Repository\CalculatorWPF\wpfCalc\obj\Debug\wpfCalc.csproj.GenerateResource.cache
+D:\Repository\CalculatorWPF\wpfCalc\obj\Debug\wpfCalc.csproj.CoreCompileInputs.cache
+D:\Repository\CalculatorWPF\wpfCalc\obj\Debug\wpfCalc.exe
+D:\Repository\CalculatorWPF\wpfCalc\obj\Debug\wpfCalc.pdb
