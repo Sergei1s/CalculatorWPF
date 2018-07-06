@@ -3,8 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+// TODO: Решарпер поставил, если поставил, то можешь видеть что этот наймспыс не используется, поэтому он подсвечен серопрозрачным,
+// TODO: используй постоянно Ctrl+Alt+F чтобы отформатировать код
 
-namespace ClassLibrary
+namespace ClassLibrary // TODO: По хорошему бы надо заводить свой крассивый наймспейс
 {
     public class Calculator
     {

@@ -6,6 +6,17 @@
         xmlns:local="clr-namespace:wpfCalc"
         mc:Ignorable="d"
         Title="Calculator" Height="342.333" Width="276.334" Background="White" Foreground="White" OpacityMask="{DynamicResource {x:Static SystemColors.ActiveBorderBrushKey}}" FontFamily="Segoe UI Symbol" Visibility="Visible" WindowStartupLocation="CenterScreen" Opacity="0.84" SizeToContent="Height">
+    
+    
+    <!-- 
+    
+    1. Нужно поставить плагин для xaml но это мы в2ем сделаем
+    2. Самостоятельно: Нужно тут все переделать, именно за это я не люблю редакторы, а пишу код UI руками
+        Короче почитай нужно убрать у всех кнопок использование св-в Margin, Height, VerticalAlignment, HorizontalAlignment
+        Для этого почитай про св-ва Grid.ColumnDefinitions, Grid.RowDefinitions, Grid.Column, Grid.Row
+    -->
+    
+
     <Grid Background="{DynamicResource {x:Static SystemColors.InactiveCaptionBrushKey}}" OpacityMask="{DynamicResource {x:Static SystemColors.DesktopBrushKey}}" Margin="0,0,0,-1">
         <Grid HorizontalAlignment="Left" Height="100" Margin="4,93,0,0" VerticalAlignment="Top" Width="157" Background="White">
             <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="54" Height="34" Margin="49,0,0,0" Content="2" Background="White"/>
