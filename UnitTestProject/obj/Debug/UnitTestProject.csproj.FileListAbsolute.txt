@@ -10,3 +10,15 @@ D:\Repository\CalculatorWPF\UnitTestProject\obj\Debug\UnitTestProject.csproj.Cor
 D:\Repository\CalculatorWPF\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
 D:\Repository\CalculatorWPF\UnitTestProject\obj\Debug\UnitTestProject.dll
 D:\Repository\CalculatorWPF\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\Dmitr\source\repos\Serega\CalculatorWPF\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Dmitr\source\repos\Serega\CalculatorWPF\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Dmitr\source\repos\Serega\CalculatorWPF\UnitTestProject\bin\Debug\ClassLibrary.dll
+C:\Users\Dmitr\source\repos\Serega\CalculatorWPF\UnitTestProject\bin\Debug\nunit.framework.dll
+C:\Users\Dmitr\source\repos\Serega\CalculatorWPF\UnitTestProject\bin\Debug\ClassLibrary.pdb
+C:\Users\Dmitr\source\repos\Serega\CalculatorWPF\UnitTestProject\bin\Debug\nunit.framework.pdb
+C:\Users\Dmitr\source\repos\Serega\CalculatorWPF\UnitTestProject\bin\Debug\nunit.framework.xml
+C:\Users\Dmitr\source\repos\Serega\CalculatorWPF\UnitTestProject\obj\Debug\UnitTestProject.csprojAssemblyReference.cache
+C:\Users\Dmitr\source\repos\Serega\CalculatorWPF\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Dmitr\source\repos\Serega\CalculatorWPF\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\Dmitr\source\repos\Serega\CalculatorWPF\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Dmitr\source\repos\Serega\CalculatorWPF\UnitTestProject\obj\Debug\UnitTestProject.pdb
