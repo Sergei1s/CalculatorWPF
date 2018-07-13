@@ -17,7 +17,7 @@
     -->
     
 
-    <Grid Background="{DynamicResource {x:Static SystemColors.InactiveCaptionBrushKey}}" OpacityMask="{DynamicResource {x:Static SystemColors.DesktopBrushKey}}" Margin="0,0,0,-1">
+    <!--<Grid Background="{DynamicResource {x:Static SystemColors.InactiveCaptionBrushKey}}" OpacityMask="{DynamicResource {x:Static SystemColors.DesktopBrushKey}}" Margin="0,0,0,-1">
         <Grid HorizontalAlignment="Left" Height="100" Margin="4,93,0,0" VerticalAlignment="Top" Width="157" Background="White">
             <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="54" Height="34" Margin="49,0,0,0" Content="2" Background="White"/>
             <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="54" Height="34" Margin="103,0,0,0" Content="3" Background="White"/>
@@ -44,5 +44,64 @@
         <Button Content="÷" HorizontalAlignment="Left" Margin="163,127,0,0" VerticalAlignment="Top" Width="52" Height="35"/>
         <Button Content="×" HorizontalAlignment="Left" Margin="215,127,0,0" VerticalAlignment="Top" Width="53" Height="35" Background="White"/>
         <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="54" Height="35" Margin="53,195,0,0" Content="," FontSize="20" Background="White"/>
+    </Grid>-->
+    <Grid>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="50"/>
+            <ColumnDefinition Width="50"/>
+            <ColumnDefinition Width="50"/>
+            <ColumnDefinition Width="50"/>
+            <ColumnDefinition Width="50"/>
+            <ColumnDefinition Width="20"/>
+            
+            
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        
+        <TextBlock Grid.ColumnSpan="6"  Background="LightCyan" Foreground="Black">
+            12345678910
+        </TextBlock>
+        
+        <Button Grid.Row="1">
+            <Button.Foreground>
+                <SolidColorBrush Color="Black"/>
+            </Button.Foreground>
+            <Button.Content>
+                <ContentControl Content="1"/>
+            </Button.Content>
+        </Button>
+        
+        <Button Grid.Row="2" Content="4"/>
+        <Button Grid.Row="3" Content="7"/>
+        <Button Grid.Row="4" Content="0"/>
+        
+        
+        <Button Grid.Column ="1" Grid.Row ="1" Content="2"/>
+        <Button Grid.Column ="1" Grid.Row ="2" Content="5"/>
+        <Button Grid.Column ="1" Grid.Row ="3" Content="8"/>
+        
+
+        <Button Grid.Column ="2" Grid.Row ="1" Content="3"/>
+        <Button Grid.Column ="2" Grid.Row ="2" Content="6"/>
+        <Button Grid.Column ="2" Grid.Row ="3" Content="9"/>
+
+
+        <Button Grid.Column ="3" Grid.Row ="1" Content="+" Background="LightCyan"/>
+        <Button Grid.Column ="3" Grid.Row ="2" Content="-" Background="LightCyan"/>
+        <Button Grid.Column ="3" Grid.Row ="3" Grid.ColumnSpan="2" Content="⚌" Background="LightCyan"/>
+
+        <Button Grid.Column ="4" Grid.Row ="1" Content="*" Background="LightCyan"/>
+        <Button Grid.Column ="4" Grid.Row ="2" Content="/" Background="LightCyan"/>
+
+        <Button Grid.Column ="5" Grid.Row ="1" Content="⌧" Background="DarkRed" Foreground="White"/>
+        
     </Grid>
 </Window>

@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpfCalc", "wpfCalc\wpfCalc.csproj", "{DC0307FA-28AD-4FA2-9D34-C27C4EA928E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{4AEE5E4D-A955-4002-A6B1-7E7AC23C2C45}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorScope", "ClassLibrary\CalculatorScope.csproj", "{4AEE5E4D-A955-4002-A6B1-7E7AC23C2C45}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{B217D6CF-6593-4406-B079-448C12AFFA1B}"
 EndProject
