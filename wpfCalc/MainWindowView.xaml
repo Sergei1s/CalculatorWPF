@@ -18,7 +18,7 @@
     WindowStartupLocation="CenterScreen"
     mc:Ignorable="d">
 
-    <Grid>
-        <views:CalculatorView />
-    </Grid>
+    <StackPanel>
+        <views:CalculatorView Loaded="CalculatorView_Loaded" />
+    </StackPanel>
 </Window>

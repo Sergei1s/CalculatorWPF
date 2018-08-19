@@ -15,6 +15,13 @@ namespace wpfCalc.ViewModels
             _calculator = new Calculator();
         }
 
+        public int Number_1 { get; internal set; }
+
+        public string RecordOfSymbols
+        {
+            get;
+            set;
+        }
         // TODO: Читать вначале: 
         // https://habr.com/post/338518/
         // https://metanit.com/sharp/wpf/22.1.php
